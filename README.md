@@ -1,8 +1,7 @@
 # 🕵️ SQL Murder Mystery — Case Solved 🔍  
 Final Capstone Project | Indian Data Club 21-Days SQL Challenge
 
-This project is part of the **Indian Data Club (IDC) 21-Days SQL Challenge**,  
-sponsored by **DPDzero**.
+This project is part of the **Indian Data Club (IDC) 21-Days SQL Challenge**, sponsored by **DPDzero**.
 
 In this case-driven project, I used SQL to solve a murder mystery:
 the CEO of TechNova Inc. was found dead — and the truth was hidden in the database!
@@ -45,7 +44,7 @@ https://indiandataclubsql.notion.site/SQL-Murder-Mystery-Who-Killed-the-CEO-296b
 - Data-driven investigation workflow
 
 📌 Step-by-step SQL queries:  
-`queries/investigation_steps.sql`
+  SQL_Queries
 
 ---
 
@@ -70,7 +69,7 @@ He was:
 Full investigation journey with SQL queries and findings:
 
 📌 Presentation PDF:  
-`presentation/SQL_Murder_Mystery_Presentation.pdf`
+`SQL_Murder_Mystery_Presentation`
 
 ---
 
