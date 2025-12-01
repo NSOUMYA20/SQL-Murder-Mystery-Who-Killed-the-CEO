@@ -1,4 +1,4 @@
-# 🕵️ SQL Murder Mystery — Case Solved 🔍  
+# 🕵️ SQL Murder Mystery - Who Killed the CEO? — Case Solved 🔍  
 Final Capstone Project | Indian Data Club 21-Days SQL Challenge
 
 This project is part of the **Indian Data Club (IDC) 21-Days SQL Challenge**, sponsored by **DPDzero**.
@@ -44,7 +44,7 @@ https://indiandataclubsql.notion.site/SQL-Murder-Mystery-Who-Killed-the-CEO-296b
 - Data-driven investigation workflow
 
 📌 Step-by-step SQL queries:  
-  SQL_Queries
+  `SQL_Queries`
 
 ---
 
@@ -75,7 +75,7 @@ Full investigation journey with SQL queries and findings:
 
 ## 🏅 Achievement
 🎉 Successfully completed  
-**IDC 21-Day SQL Challenge — Capstone Project**
+**IDC 21-Days SQL Challenge — Capstone Project**
 
 Huge thanks to:
 👉 *Indian Data Club (IDC)*  
